@@ -191,6 +191,7 @@ print("\nFeature Scaling Completed Successfully.")
 <img width="1182" height="801" alt="image" src="https://github.com/user-attachments/assets/9f93dfbd-09cc-42e3-a148-3437c6f7ace4" />
 
 <img width="400" height="852" alt="image" src="https://github.com/user-attachments/assets/3bd358df-d183-4d1b-957a-b6d5c31252d7" />
+
 # RESULT:
       Thus,Feature Scaling and Feature Selection process is successfully performed.
 
